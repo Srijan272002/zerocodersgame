@@ -11,7 +11,8 @@
 - [ ] Configure Supabase project
   - [ ] Set up PostgreSQL database
   - [ ] Configure storage buckets
-  - [ ] Set up Google OAuth
+  - [ ] Set up Supabase Auth with Google OAuth provider
+  - [ ] Configure security rules and policies
 - [ ] Set up Google Cloud project
   - [ ] Configure Cloud Functions
   - [ ] Set up Gemini API access
