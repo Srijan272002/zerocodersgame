@@ -35,9 +35,11 @@
 
 ## Phase 3: AI Integration & Agent System (4-5 weeks)
 ### AI Infrastructure
-- [ ] Set up Gemini 1.5 Pro integration
-- [ ] Configure Gemini Vision API
-- [ ] Implement rate limiting and error handling
+- [ ] Set up Gemini 2.5 Pro integration
+  - [ ] Configure multimodal capabilities (text, code, images, video)
+  - [ ] Set up enhanced code generation features
+  - [ ] Implement web app generation capabilities
+- [ ] Configure rate limiting and error handling
 - [ ] Create AI service layer
 
 ### Agent System Development
